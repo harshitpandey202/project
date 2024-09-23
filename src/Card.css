@@ -1,0 +1,61 @@
+.Card{
+
+
+border: 2px solid white;
+  border-radius: 3px;
+  padding: 2px;
+  margin: 5px;
+
+  background: rgba( 229, 223, 223, 0.15 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 35px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  position: relative;
+  height: 300px; 
+
+  
+}
+h2{ 
+  margin-top: 60px;  
+text-align: center;
+font-weight: 600;
+
+
+}
+p{
+
+text-align: justify;
+font-weight: 150;
+margin: 10px;
+margin-bottom: 100px;
+
+
+}
+img{
+    height: 150px;
+    width: 200px;
+    margin: 0;
+    position: absolute;
+  
+    transform: translateX(2%);
+    top: -100px;
+}
+.price{
+position: absolute;
+transform: translateX(20%);
+bottom: 30px;
+text-align: left;
+font-size: 15px;
+
+
+}
+.img97{
+position:absolute;
+height: 35px;
+width: 35px;
+top: 220px;
+left: 150px;
+
+}

@@ -1,0 +1,116 @@
+.div6{
+display: flex;
+justify-content: space-between;
+background-color: #222C1D;
+width: 100%;
+
+}
+
+
+.div9{
+width: 500px;
+margin-top: 40px;
+
+}
+
+
+.div9 p{
+  font-size: 20px;
+  font-weight: 400;
+  margin-left: 30px;
+  text-align: left;
+}
+
+
+.div9 h3{
+font-size: 35px;
+margin-left: 120px;
+font-weight: 900;
+
+}
+
+
+.Photo{
+height: 75px;
+width: 75px;
+transform: translateY(4970%);
+left: 30px;
+}
+
+
+.Photo12{
+    height: 20px;
+    width: 20px;
+    transform: translateY(20000%);
+    left: 30px;
+}
+
+
+.Photo13{
+        height: 20px;
+        width: 20px;
+        transform: translateY(20000%);
+        left: 60px;
+}
+      
+.Photo14{
+            height: 20px;
+            width: 20px;
+            transform: translateY(20000%);
+            left: 90px;
+ }
+            
+
+.div8{
+  margin-top: 45px;
+}
+
+.div8 h3{
+font-weight: 900;
+font-size: 30px;
+margin-right: 90px;
+}
+
+
+
+.div8 ul{
+font-weight: 300;
+font-size: 18px;
+list-style: none;
+}
+
+
+.div8 li{
+margin: 8px;
+}
+
+
+.div7 h2{
+  text-align: left;
+
+  
+}
+
+.div7 button{
+font-weight: 500;
+font-size: 20px;
+
+}
+
+
+.div7 p{
+font-weight: 300;
+font-size: 30px;
+transform: translateY(200%);
+}
+
+input{
+
+width: 250px;
+height: 45px;
+border-radius: 10px;
+font-size: 30px;
+background-color: transparent;
+color: white;
+font-weight: 100;
+}

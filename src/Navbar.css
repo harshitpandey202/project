@@ -1,0 +1,73 @@
+.D0{
+
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    height: 10px;
+
+}
+.img12{
+
+    float: left;
+}
+.img651{
+
+position: absolute;
+height: 100px;
+width: 100px;
+top: 20px;
+
+}
+
+
+
+ .D1 h2{
+    font-size: 50px;
+    font-weight: 950;
+    margin-left: 70%;
+margin-top: 35px;
+
+ }   
+ ul{
+
+display: flex;
+justify-content: space-around;
+
+font-size: 25px;
+list-style: none;
+margin-top: 50px;
+margin-left: 100px;
+
+ }
+ ul li{
+
+padding: 10px;
+
+ }
+ .img652{
+
+position: absolute;
+height: 30px;
+width: 30px;
+top: 60px;
+right: -150px;
+ }
+ .img653{
+
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    top: 60px;
+    right: -220px;
+    
+     }
+     .img654{
+
+        position: absolute;
+        height: 20px;
+        width: 30px;
+        top: 65px;
+        right: -300px;
+        
+         }

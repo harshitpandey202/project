@@ -1,0 +1,50 @@
+.full{
+    border: 2px solid white;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 20px;
+  
+    background: rgba( 229, 223, 223, 0.15 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 35px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    
+    height: 300px;
+    width: 40%; 
+
+}
+.img1{
+
+    position: absolute;
+    float: left;
+margin-top: 140px;
+height: 70px;
+width: 80px;
+    
+}
+.para{
+margin-bottom: 30px;
+font-weight: 200;
+text-align: justify ;
+
+font-size: 15px;
+
+}
+
+.comment{
+margin-top: 20px;
+margin-left: 30%;
+text-align: left;
+font-weight: 700;
+margin-bottom: 60px;
+}
+.img300{
+
+    position: absolute; 
+    width: 35%;
+    height: 30px;
+    top: 80px;
+    left: 130px;
+ }

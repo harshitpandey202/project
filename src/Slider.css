@@ -1,0 +1,121 @@
+.Slide{
+
+
+    border: 2px solid white;
+    border-radius: 3px;
+     line-height: 30px;
+    margin: 30px;
+  
+    background: rgba( 229, 223, 223, 0.15 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 35px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    position: relative;
+    height: px; 
+    width: 90%;
+    margin-left: 50px;
+    
+
+}
+.photo1{
+    position: absolute;
+    transform: translateX(-0px);
+    top: 30px;
+    height: 500px;
+    width: 500px;
+}
+.Head1{
+
+font-weight: 500;
+font-size: 25px;
+text-align: left;
+margin-top: px;
+margin-right: 40px;
+margin-left: 40%;
+
+
+}
+
+.Head2{
+
+font-weight: 400;
+font-size: 15px;
+text-align: left;
+margin-right: px;
+margin-left: 40%;
+padding: 0;
+}
+.Head3{
+
+    font-weight: 400;
+    font-size: 15px;
+    text-align: left;
+    margin-right: px;
+    margin-left: 40%;
+    
+}
+.btn{
+    position: absolute;
+ align-content: center;
+margin-left: 40%;
+bottom: 25px;
+background-color: Transparent;
+
+background-repeat:no-repeat;
+border: white solid;
+border-radius: 15px;
+cursor:pointer;
+overflow: hidden;        
+color: white;
+width: 150px;
+font-size: 20px;
+}
+.img334{
+position: absolute;
+height: 30px;
+width: 30px;
+
+
+
+}
+.img335{
+
+    position: absolute;
+    height: 30px;
+    width: 30px;  
+}
+.a11112{
+
+position: absolute;
+bottom: -30px;
+right: 300px;
+
+}
+.a11113{
+
+    position: absolute;
+    bottom: -30px;
+    right: 200px;
+    
+ }
+ .btn12{
+    position: absolute;
+    align-content: center;
+   margin-left: 75%;
+   bottom: 30px;
+   background-color: Transparent;
+   
+   background-repeat:no-repeat;
+   border: transparent;
+   border-radius: 15px;
+   cursor:pointer;
+   overflow: hidden;        
+   color: white;
+   width: 150px;
+   font-size: 20px;
+ }
+    
+
+
