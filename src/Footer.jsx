@@ -27,11 +27,11 @@ return(
 
     <div className="div8">
         <h3>Quick Links</h3>
-        <ul>
-            <li>Home</li>
-            <li>Types of Plants</li>
-            <li>Contact</li>
-            <li>Privacy</li>
+        <ul className="ull">
+            <li className="liii">Home</li>
+            <li  className="liii">Types of Plants</li>
+            <li  className="liii">Contact</li>
+            <li  className="liii">Privacy</li>
         </ul>
     </div>
 
@@ -39,9 +39,12 @@ return(
 
    <div className="div7">
     <h2>For Every Update</h2>
+    <div className="booxxx">
     <input className="Searchbox" type="textbox" placeholder="Enter Email"></input><button>SUBSCRIBE</button>
+    </div>
     <p>Plants &copy; all right reserve</p>
    </div>
+
 
 
 

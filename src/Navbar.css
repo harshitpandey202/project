@@ -14,18 +14,19 @@
 .img651{
 
 position: absolute;
-height: 100px;
-width: 100px;
-top: 20px;
+height: 60px;
+width: 60px;
+top: 25px;
+left: 30px;
 
 }
 
 
 
  .D1 h2{
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 950;
-    margin-left: 70%;
+    margin-left: 110%;
 margin-top: 35px;
 
  }   
@@ -34,10 +35,10 @@ margin-top: 35px;
 display: flex;
 justify-content: space-around;
 
-font-size: 25px;
+font-size: 20px;
 list-style: none;
-margin-top: 50px;
-margin-left: 100px;
+margin-top: 35px;
+margin-left: 120px;
 
  }
  ul li{
@@ -50,7 +51,7 @@ padding: 10px;
 position: absolute;
 height: 30px;
 width: 30px;
-top: 60px;
+top: 45px;
 right: -150px;
  }
  .img653{
@@ -58,8 +59,8 @@ right: -150px;
     position: absolute;
     height: 30px;
     width: 30px;
-    top: 60px;
-    right: -220px;
+    top: 45px;
+    right: -240px;
     
      }
      .img654{
@@ -67,7 +68,8 @@ right: -150px;
         position: absolute;
         height: 20px;
         width: 30px;
-        top: 65px;
-        right: -300px;
+        top: 50px;
+        right: -340px;
         
          }
+         

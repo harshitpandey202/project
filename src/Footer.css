@@ -9,7 +9,6 @@ width: 100%;
 
 .div9{
 width: 500px;
-margin-top: 40px;
 
 }
 
@@ -24,64 +23,76 @@ margin-top: 40px;
 
 .div9 h3{
 font-size: 35px;
-margin-left: 120px;
+margin-left: 130px;
 font-weight: 900;
+margin-top: 45px;
 
 }
 
 
 .Photo{
+  position: absolute;
 height: 75px;
 width: 75px;
-transform: translateY(4970%);
-left: 30px;
+transform: translateY(40%);
+left: 40px;
 }
 
 
 .Photo12{
+  position: absolute;
     height: 20px;
-    width: 20px;
-    transform: translateY(20000%);
+    width: 28px;
+    transform: translateY(-410%);
     left: 30px;
+   
 }
 
 
 .Photo13{
+  position: absolute;
         height: 20px;
-        width: 20px;
-        transform: translateY(20000%);
-        left: 60px;
+        width: 25px;
+        transform: translateY(-410%);
+        left: 80px;
 }
       
 .Photo14{
+  position: absolute;
             height: 20px;
-            width: 20px;
-            transform: translateY(20000%);
-            left: 90px;
+            width: 33px;
+            transform: translateY(-410%);
+            left: 130px;
  }
             
 
 .div8{
-  margin-top: 45px;
+  margin-top: 20px;
+  
 }
 
 .div8 h3{
 font-weight: 900;
 font-size: 30px;
-margin-right: 90px;
+margin-left: 70px;
+
 }
 
 
 
-.div8 ul{
+.ull{
 font-weight: 300;
 font-size: 18px;
 list-style: none;
+display: grid;
+margin-left: 80px;
+
 }
 
 
-.div8 li{
-margin: 8px;
+.liii{
+margin: px;
+margin-right: 250px;
 }
 
 
@@ -93,8 +104,8 @@ margin: 8px;
 
 .div7 button{
 font-weight: 500;
-font-size: 20px;
-
+font-size: 18px;
+margin-top: 2px;
 }
 
 
@@ -106,11 +117,16 @@ transform: translateY(200%);
 
 input{
 
-width: 250px;
+width: 180px;
 height: 45px;
 border-radius: 10px;
-font-size: 30px;
+font-size: 15px;
 background-color: transparent;
 color: white;
 font-weight: 100;
+}
+.booxxx{
+
+  border: 2px solid white;
+  border-radius: 10px;
 }

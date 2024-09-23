@@ -1,11 +1,11 @@
-import img852 from "./images/abnc.png"
+import img856 from "./images/6.png"
 import img97 from "./images/SHOP.png";
 import "./Card.css";
 
-export default function Card() {
+export default function Card5() {
     return (
         <div className="Card">
-            <img src={img852} className="pp1"></img>
+            <img src={img856} className="pp1"></img>
             
             <h2>Calathea plants </h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis, possimus?</p>
@@ -16,5 +16,3 @@ export default function Card() {
         </div>
     );
 }
-
-
